@@ -1,0 +1,2 @@
+insert into Validation.Detailed_Production_History (pcn,production_no,part_no,part_key,record_date)
+  values (?,?,?,?,?)

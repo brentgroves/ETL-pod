@@ -1,0 +1,7 @@
+params=123681,300758,310507,306766,300757
+Current Time: current_time='17:42:59'
+fetch_time=0:00:04.398028
+delete from Scratch.accounting_period where pcn in (123681,300758,310507,306766,300757) - rowcount=0
+delete from Scratch.accounting_period where pcn in (123681,300758,310507,306766,300757) - messages=[]
+length=1418
+total time: 0:00:05.367225
